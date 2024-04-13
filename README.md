@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 11/04/2024
 
 ## AIM:
 
@@ -55,8 +55,11 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name: NAVEEN KUMAR M
+### Register Number: 212222110028
+
+![empd_output](https://github.com/NAVEENMATHIVANAN/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119394582/2ecc6908-d2d5-4610-856b-b6300745e963)
+
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
